@@ -1,0 +1,61 @@
+header{
+    display: flex;
+    background-color: lightgray;
+    padding: 10px;
+    margin: 5px;
+    height: 90px;
+}
+
+h1{
+    margin: auto;
+}
+
+a{
+    text-decoration: none;
+}
+
+.search{
+    display: flex;
+    height: 26px;
+    margin: auto;
+}
+
+.login_btn{
+    margin: auto;
+}
+
+.transition_btn{
+    margin: auto;
+}
+
+.book_table{
+    width: 75vw;
+    height: 100vw;
+    margin: auto;
+}
+
+.book_table table{
+    margin: auto;
+}
+
+.th{
+    padding: 15px;
+}
+
+.td{
+    padding: 15px;
+}
+
+.information_box{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.information_box div{
+    margin: 20px;
+    text-align: center;
+}
+
+
+
